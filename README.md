@@ -5,7 +5,7 @@
   <body>
 <section>
    <h2>I am Evren Aktaş✨</h2>
-   <p>🎓 Yönetim Bilişim Sistemleri </a>
+   <p>🎓Yönetim Bilişim Sistemleri 👨‍💻 İnnova Bilişim 👨‍💻 Senior Software Developer</a>
    </p>
 </section>
  
@@ -26,7 +26,7 @@
 <br>
 <hr>
 </section>
-### 👨‍💻
+ 👨‍💻👨‍💻
 
 <p>
     <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Acsharp"><img alt="C#" src="https://custom-icon-badges.herokuapp.com/badge/C%23-68217A.svg?logo=cs2&logoColor=white"></a>
