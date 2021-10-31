@@ -39,7 +39,7 @@
      <a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white"></a>
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
     <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
-   <a href="#"><img alt="Postman" src="https://img.shields.io/badge/vuejs%20-%2335495e.svg?&style=for-the-badge&logo=vue.js&logoColor=%234FC08D"></a>
+   <a href="#"><img alt="Postman" src="https://img.shields.io/badge/vuejs%20-%2335495e.svg?logo=vue.js&logoColor=%234FC08D"></a>
  
 </p>
  <br>
