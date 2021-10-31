@@ -3,8 +3,6 @@
  <head>
  </head>
   <body>
-    
-<!-- Start My Basic Information -->
 <section>
    <h2>I am Evren Aktaş✨</h2>
    <p>🎓 Yönetim Bilişim Sistemleri </a>
@@ -21,6 +19,9 @@
   </a>
   <a href="https://www.instagram.com/eaktassssss/" target="_blank">
     <img align="left" alt="Evren Aktaş | Instagram" width="24px" src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Instagram.svg" />
+  </a>
+  <a href="http://evrenaktas.com/" target="_blank">
+   <img align="left" alt="Evren Aktaş | Website" width="26px" src="https://github.com/shakiliitju/shakiliitju/blob/main/world-wide-web.svg" />
   </a>
 <br>
 <hr>
