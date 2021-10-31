@@ -9,13 +9,8 @@
    <h2>I am Evren Aktaş✨</h2>
    <p>🎓 Yönetim Bilişim Sistemleri </a>
    </p>
-   <hr>
 </section>
-<!-- End My Basic Information -->
-
-<!-- Start Social Media -->
-
-## Social Media
+ 
 <section>
 <a href="https://www.linkedin.com/in/evren-akta%C5%9F-94a8b0133/" target="_blank">
    <img align="left" alt="Md. Shakil Hossain | Linkedin" width="24px" src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Linkedin.svg" />
@@ -30,29 +25,6 @@
 <br>
 <hr>
 </section>
-<!-- End Social Media -->
-
-
-
-    
-    
-<!-- START NEW SECTION -->
-<p align="center">
-  <img width="100" src="https://user-images.githubusercontent.com/6661165/91657958-61b4fd00-eb00-11ea-9def-dc7ef5367e34.png" />  
-  <h2 align="center">My Github Profile Trophy</h2>
-</p>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=shakiliitju&theme=radical&margin-w=40&margin-h=40)](https://github.com/Cyebukayire)
-
-<hr>
-
-
-
-
-
-<!-- START My favorite tools -->
-<h2 align="center">🛠️ My favorite tools</h2>
-
 ### 👨‍💻
 
 <p>
@@ -68,16 +40,10 @@
     <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
 </p>
  <br>
-
- 
- 
- 
-
-<!-- START NEW SECTION -->
 <p align="center">
  <h2 align="center">Contribution Graph</h2>
 <p>
-<img alt="Md. Shakil Hossain's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=eaktassssss&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
+<img alt="Evren Aktaş Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=eaktassssss&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
 </p>
 
 </body>
