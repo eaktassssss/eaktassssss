@@ -29,6 +29,7 @@
  
 <p>
 <img width ='32' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/csharp.svg'>
+  <img width ='32' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/medium.svg'>
 
 </p>
  <br>
