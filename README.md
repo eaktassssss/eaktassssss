@@ -5,7 +5,7 @@
   <body>
 <section>
    <h2>Evren Aktaş✨</h2>
-   <p>🎓Yönetim Bilişim Sistemleri 👨‍💻 İnnova Bilişim 👨‍💻 Senior Software Developer</a>
+   <p>🎓Yönetim Bilişim Sistemleri 👨‍💻 İnnova Bilişim 👨‍💻 Software Developer</a>
    </p>
 </section>
  
