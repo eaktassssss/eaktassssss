@@ -14,7 +14,7 @@
    <img align="left" alt="Md. Shakil Hossain | Linkedin" width="24px" src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Linkedin.svg" />
   </a>
  
-  <a href="https://twitter.com/eeaaktas" target="_blank">
+  <a href="https://twitter.com/_evrenaktas" target="_blank">
     <img align="left" alt="Evren Aktaş | Twitter" width="26px" src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Twitter.svg" />
   </a>
   <a href="https://www.instagram.com/eaktassssss/" target="_blank">
