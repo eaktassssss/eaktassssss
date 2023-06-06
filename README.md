@@ -5,7 +5,7 @@
   <body>
 <section>
    <h2>Evren Aktaş✨</h2>
- <strong><p> İnnova Bilişim 👨‍💻 Senior Software Developer</p></strong>
+ <strong><p><a href="https://www.linkedin.com/company/innova">İnnova Bilişim</a>👨‍💻 Senior Software Developer</p></strong>
   
 </section>
  
