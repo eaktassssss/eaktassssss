@@ -44,11 +44,5 @@
 
 </p>
  <br>
-<p align="center">
- <h2 align="center">Contribution Graph</h2>
-<p>
-<img alt="Evren Aktaş Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=eaktassssss&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
-</p>
-
 </body>
 </html>
